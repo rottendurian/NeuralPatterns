@@ -1,0 +1,15 @@
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/CMakeFiles/uninstall.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/CMakeFiles/edit_cache.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/CMakeFiles/rebuild_cache.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/CMakeFiles/list_install_components.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/CMakeFiles/install.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/CMakeFiles/install/local.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/CMakeFiles/install/strip.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/src/CMakeFiles/update_mappings.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/src/CMakeFiles/glfw.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/src/CMakeFiles/edit_cache.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/src/CMakeFiles/rebuild_cache.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/src/CMakeFiles/list_install_components.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/src/CMakeFiles/install.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/src/CMakeFiles/install/local.dir
+/media/ryan/SSD870/rust/opengl/target/debug/build/glfw-sys-948b67695815795c/out/build/src/CMakeFiles/install/strip.dir
